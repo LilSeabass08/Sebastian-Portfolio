@@ -27,6 +27,7 @@ height, width and background color */
     background-color: black;
     color: white;
     text-align: center;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 /* Styling the second parallax's 
@@ -45,23 +46,24 @@ height, width and background color */
     margin: auto;
     position: relative;
     left: 500x;
-    top: 500px;
+    top: 480px;
     width: 250px;
-    height: 70px;
+    height: 80px;
     padding: 10px;
     background-color: black;
     color: white;
     text-align: center;
     font-size: 30px;
-    font-family: Verdana;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 /* Styling the content or paragraph */
 .para-1 {
-    padding: 50px;
+    padding: 30px;
     background-color: black;
     color: white;
     font-size: 17px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 /* Styling the content or paragraph */
@@ -69,7 +71,14 @@ height, width and background color */
     text-align: center;
     padding: 25px;
     font-size: 17px;
-    font-family: Verdana;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
     background-color: black;
     color: white;
+}
+
+.sketchfab-embed-wrapper {
+    padding: 25px;
+    margin-top: -55px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    
 }
