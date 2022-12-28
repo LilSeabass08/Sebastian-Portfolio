@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../javaScriptCalculator"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sebastian Portfolio"
+	}
+}
